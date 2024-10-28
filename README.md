@@ -3,10 +3,15 @@
 ## AIM:
 To write a program to implement Message Authentication Code (MAC). 
 ## ALGORITHM:
+
 STEP-1: Input the plaintext message and symmetric key. STEP-2: Input the MAC value. STEP-3: Perform XOR encryption
+
 STEP-4: Display the encrypted message
+
 STEP-5: Perform XOR decryption
+
 STEP-6: Display the decrypted message
+
 ## PROGRAM :
 ```
 #include <stdio.h>
@@ -41,8 +46,8 @@ int main() {
     char decrypted[MAX_LEN];  // Decrypted message
 
     printf("\n **Simulation of MAC Algorithm**\n\n");
-    printf(" DEVELOPED BY : Devadarshan A S\n");
-    printf(" REG NO : 212222110007\n\n");
+    printf(" DEVELOPED BY : Gokularamanan\n");
+    printf(" REG NO : 212222230040\n\n");
 
     // Get plaintext message from the user
     printf("Enter the plaintext message: ");
@@ -80,7 +85,8 @@ int main() {
 ```
 
 ## OUTPUT :
-![Screenshot 2024-10-18 135412](https://github.com/user-attachments/assets/305ac9a7-00c4-470f-9905-88af8edcffa4)
+![image](https://github.com/user-attachments/assets/804829dd-b20c-484a-b6ca-6fc637a54b7a)
+
 
 
 ## RESULT :
